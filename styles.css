@@ -7,6 +7,9 @@ h3 {
 h2 {
   background-color: gray;
 }
-h3 + p {
+h3 {
+  font-size: 200%;
+}
+p {
   font-size: 200%;
 }
