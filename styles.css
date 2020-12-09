@@ -27,3 +27,6 @@ ul#menu {
   font-family: arial;
 }
 
+ul#menu {
+  text-decoration: none;
+}
