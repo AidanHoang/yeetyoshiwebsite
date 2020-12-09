@@ -1,5 +1,5 @@
 h1 {
-  color: white;
+  color: orange;
   }
 h1 {
   font-family: arial;
@@ -29,4 +29,9 @@ ul#menu {
 
 ul#menu {
   text-decoration: none;
+}
+
+ul#image {
+  font-size: 72px;
+  font-family: arial;
 }
