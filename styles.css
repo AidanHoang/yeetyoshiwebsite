@@ -32,6 +32,17 @@ ul#menu {
 }
 
 ul#image {
-  font-size: 72px;
+  font-size: 400px;
+}
+
+ul#image {
+  font-size: 300px;
+}
+
+ul#image {
   font-family: arial;
+}
+
+u#image {
+  font-weight: bold;
 }
