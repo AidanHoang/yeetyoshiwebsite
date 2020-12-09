@@ -28,7 +28,11 @@ ul#menu {
 }
 
 ul#menu {
-  text-decoration: none;
+  font-weight: bold;
+}
+
+ul#menu {
+  color: white;
 }
 
 ul#image {
@@ -37,4 +41,8 @@ ul#image {
 
 ul#image {
   font-weight: bold;
+}
+
+ul#image {
+  background-color: white;
 }
